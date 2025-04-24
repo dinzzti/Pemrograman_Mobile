@@ -19,9 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-<<<<<<< HEAD
-rootProject.name = "Dice Roller"
-=======
-rootProject.name = "DiceRoller"
->>>>>>> db5d613 (Modul2)
+rootProject.name = "TipTime"
 include(":app")

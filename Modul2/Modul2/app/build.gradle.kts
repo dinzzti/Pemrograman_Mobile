@@ -4,25 +4,19 @@ plugins {
 }
 
 android {
-    namespace = "com.example.diceroller"
+    namespace = "com.example.tiptime"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.diceroller"
-        minSdk = 25
+        applicationId = "com.example.tiptime"
+        minSdk = 30
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
-<<<<<<< HEAD
 
-=======
-    buildFeatures{
-        viewBinding = true
-    }
->>>>>>> db5d613 (Modul2)
     buildTypes {
         release {
             isMinifyEnabled = false
@@ -51,4 +45,7 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+    implementation("androidx.core:core-splashscreen:1.0.0")
+    implementation ("androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0")
+
 }
