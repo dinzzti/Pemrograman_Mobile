@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">modul3</string>
+    <string name="btn_detail">Detail</string>
+    <string name="btn_wiki">Wiki</string>
+
+    <string-array name="data_name">
+        <item>True Beauty</item>
+        <item>Business Proposal</item>
+        <item>King the Land</item>
+        <item>Welcome to Samdalri</item>
+        <item>Love Next Door</item>
+        <item>Family by Choice</item>
+        <item>Lovely Runner</item>
+        <item>Melo Movie</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/id/6/6b/True_Beauty_main_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/1/19/A_Business_Proposal.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/d/da/King_the_Land.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/5/54/Welcome_to_Samdal-ri.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/a/a6/Love_Next_Door_poster.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/a/a6/Family_by_Choice_poster.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/6/67/Lovely_Runner.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/7/7a/Melo_Movie_poster.png</item>
+    </string-array>
+
+    <string-array name="data_link">
+        <item>https://www.netflix.com/id/title/81410834</item>
+        <item>https://www.netflix.com/id-en/title/81509440</item>
+        <item>https://www.netflix.com/id/title/81671440</item>
+        <item>https://www.netflix.com/id/title/81697983</item>
+        <item>https://www.netflix.com/id-en/title/81739044</item>
+        <item>https://www.viu.com/ott/id/id/vod/2435994/Family-By-Choice</item>
+        <item>https://www.netflix.com/id-en/title/81914565</item>
+        <item>https://www.netflix.com/id-en/title/81720593</item>
+    </string-array>
+
+    <string-array name="data_plot">
+        <item>True Beauty is a high school drama about a girl who becomes a beauty through makeup and faces challenges when her secret is revealed.</item>
+        <item>Business Proposal tells the story of a woman who participates in a business proposal pretending to be her friend, only to find out the man is her company s CEO</item>
+        <item>King the Land is about a CEO who tries to open a new hotel and a woman who works there while struggling with her own love story.</item>
+        <item>Welcome to Samdalri is about a group of individuals who meet in a small village and form bonds through humorous and touching moments.</item>
+        <item>Love Next Door is a romantic drama revolving around a couple living next door and their developing relationship.</item>
+        <item>Family by Choice is a heartwarming drama about a group of people who form a family despite not being related by blood.</item>
+        <item>Lovely Runner follows a runner who is trying to make it in the world of competitive sports while balancing her personal life.</item>
+        <item>Melo Movie is a romantic comedy about a woman trying to find love while struggling with her career in the film industry.</item>
+    </string-array>
+
+    <string-array name="data_year">
+        <item>2020</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2024</item>
+        <item>2024</item>
+        <item>2025</item>
+    </string-array>
+
+    <string-array name="data_cast">
+        <item>Moon Ga-young, Cha Eun-woo, Hwang In-yeop</item>
+        <item>Kim Se-jeong, Ahn Hyo-seop, Kim Min Kyu, Seol In Ah</item>
+        <item>YoonA, Lee Jun-ho</item>
+        <item>Ji Chang-wook, Shin Hye-sun</item>
+        <item>Jung Hae In, Jung So Min, Kim Ji Eun, Yun Ji On</item>
+        <item>Hwang In Yeop, Jung Chae Yeon, Bae Hyun Sung</item>
+        <item>Byeon Woo-seok, Kim Hye-yoon</item>
+        <item>Choi Woo Shik, Park Bo Young, Lee Jun Young, Jeon So Nee</item>
+    </string-array>
+
+    
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="header">Kdrama Favorit Dina</string>
+</resources>
